@@ -12,17 +12,17 @@ public class TestDAO {
 
 		FormulaOneDAO dao = new FormulaOneDAO();
 
-		List<Integer> years = dao.getAllYearsOfRace();
-		System.out.println(years);
-
-		List<Season> seasons = dao.getAllSeasons();
-		System.out.println(seasons);
-
-		List<Circuit> circuits = dao.getAllCircuits();
-		System.out.println(circuits);
-
-		List<Constructor> constructors = dao.getAllConstructors();
-		System.out.println(constructors);
+//		List<Integer> years = dao.getAllYearsOfRace();
+//		System.out.println(years);
+//
+//		List<Season> seasons = dao.getAllSeasons();
+//		System.out.println(seasons);
+//
+//		List<Circuit> circuits = dao.getAllCircuits();
+//		System.out.println(circuits);
+//
+//		List<Constructor> constructors = dao.getAllConstructors();
+//		System.out.println(constructors);
 
 	}
 
